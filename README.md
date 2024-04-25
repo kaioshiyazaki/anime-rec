@@ -1,2 +1,2 @@
-# anime-rec
-# anime-rec
+# ez content based filtering anime recommendation system 
+
